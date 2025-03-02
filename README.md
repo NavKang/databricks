@@ -1,4 +1,5 @@
 # Databricks
 
-### Connection commands DBKS to Azure Storage:
-### Useful commands for SQL, Spark and Python in Notebooks
+#This document will contain important and useful commands for Databricks Notebooks, covering Python, SQL and Spark.
+
+
